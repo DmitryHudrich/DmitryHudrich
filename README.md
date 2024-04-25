@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+|\---/|
+| o_o |
+ \_^_/
+
+it's me
+
 <!--
 **DmitryHudrich/DmitryHudrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
