@@ -1,31 +1,25 @@
-<!DOCTYPE html>
-<html lang="ru">
-<body style="font-family: FiraCode,sans-serif; font-size: 22px">
-    <h1 align="center"> Hi there 👋 </h1>
-    <br>
-    <div>
-        <div align="center">
-            <img src="https://cdn140.picsart.com/287425545055211.png" width="600px" height="200.5px" align="right" alt="About Me">
-        </div>
-        <p align="left">
-         Welcome! Summary about me:
-        </p>
-        <ul>
-            <li><b>Name:</b> Dmitry </li>
-            <li><b>Surname:</b> Hudrich </li>
-            <li><b>Stack:</b> .NET, ASP.net, EF Core, Rust, Linux, Docker etc
-        </ul>
-        <p align="left">
-My name is Dima, and I am a .NET developer specializing in C# and F# from Rostov-on-Don. My tech stack includes ASP.NET, EF Core, Docker, and related technologies such as databases, brokers, tooling, libraries and frameworks. Additionally, I code in Rust, have a passion for Linux, and enjoy exploring computer science concepts.
-                   <p>
-            I also love playing games, composing music, and connecting with people from different backgrounds. These experiences help me discover the world around me and share knowledge with others.
-          </p>
-          <p>
-           Feel free to write to me on social media, and we can be friends!
-          </p>
-         </p>
-        <br>
-    </div>
+<h1 align="center">Hey, I'm Dima 👋</h1>
 
-</body>
-</html>
+<img src="https://cdn140.picsart.com/287425545055211.png" width="600px" height="200.5px" align="right" alt="About Me">
+
+I build backend systems in **Rust** - the kind that has to stay up under load, not fall over under attack, and make sense of raw blockchain data.
+
+For the past couple of years I've been deep in:
+
+- **High-load & distributed systems** - L7 reverse proxies (Hyper/Quinn, HTTP/1-2-3), WAF logic, TLS fingerprinting, thread-per-core Tokio runtimes
+- **Network & security infra** - mTLS, async networking, the kind of stuff that breaks quietly at 3am if you get it wrong
+- **Blockchain / crypto analytics** - tracing transactions, graph modeling of on-chain activity, and building tooling to spot suspicious patterns
+
+### Stack
+
+`Rust` · `Tokio` · `Hyper` · `Quinn` · `PostgreSQL` · `NATS` · `ClickHouse` · `Docker` · `Linux`
+
+Also comfortable in the .NET/C# world where I started, but Rust is home now.
+
+### What I'm into outside of code
+
+Grid trading bots, blockchain forensics as a hobby, photography, anime and films (Attack on Titan, Chainsaw Man, Dune), and Russian underground music loud enough to think through a problem to.
+
+### Let's talk
+
+Always up for a conversation about distributed systems, on-chain forensics, or why async Rust makes you question your life choices. Reach out - happy to connect.
